@@ -16,7 +16,7 @@
 
 For this internship task, I was asked to create a basic **multi-cloud architecture**, which means using more than one cloud platform (in this case, **Google Cloud** and **AWS**) to build a small working project. The main goal was to **split the project between two cloud providers** and show that they can work together — this is called **interoperability**.
 
-As a beginner with no prior experience in cloud computing, this seemed a bit intimidating at first. But after breaking it down into smaller parts, I realized it could be done using free tools provided by both platforms.
+I realized it could be done using free tools provided by both platforms.
 
 ### **What I Built**
 
