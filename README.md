@@ -52,3 +52,12 @@ I also learned how to keep everything within the **free tier** so I don’t get 
 
 By the end of this task, I was able to create a simple multi-cloud project that worked as expected. When I clicked the button on the Google Cloud-hosted webpage, it successfully fetched and displayed a message from an AWS Lambda function. This project helped me understand cloud basics, how APIs work, and how different cloud services can communicate with each other. It was a valuable learning experience and has given me the confidence to explore more cloud-based technologies in the future.
 
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/99b216a0-d517-48f0-8efd-67fa94c6d269)
+
+![Image](https://github.com/user-attachments/assets/06bd6d6d-fd7b-4a8d-9324-ba06676c77a4)
+
+![Image](https://github.com/user-attachments/assets/2b59165c-6f81-4240-8c76-2f1b7111d177)
+
+![Image](https://github.com/user-attachments/assets/c30c0233-e0f9-4f2f-affa-da10267e6ead)
