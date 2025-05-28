@@ -37,7 +37,7 @@ In the real world, companies don’t always rely on a single cloud provider. Usi
 
 ### **My Learning Experience**
 
-This was my first time using cloud services, so I had to start from scratch. I created free accounts on both **Google Cloud Platform** and **Amazon Web Services (AWS)**. I learned how to:
+I learned how to:
 
 * Create and configure a **Google Cloud Storage bucket**
 * Upload and host a static website
@@ -45,8 +45,6 @@ This was my first time using cloud services, so I had to start from scratch. I c
 * Create a **Lambda function** in Python
 * Use **API Gateway** to make the function accessible online
 * Connect the two using a **fetch** request from the frontend to the backend
-
-I also learned how to keep everything within the **free tier** so I don’t get charged.
 
 ### **Conclusion**
 
